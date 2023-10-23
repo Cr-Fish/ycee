@@ -5,6 +5,7 @@ yes, cherish every expedition!
 - travel_data.csv: 旅行攻略数据集
 - craw.py: 爬取数据的代码
 - web_demo3.py: 应用主体
+- YCEE介绍.pptx: 项目介绍
 
 ## 运行
 ```
